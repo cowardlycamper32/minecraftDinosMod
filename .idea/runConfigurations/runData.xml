@@ -8,7 +8,7 @@
     <module name="dinos.main"/>
     <envs>
       <env name="MOD_CLASSES" value="dinos%%$PROJECT_DIR$\build\resources\main;dinos%%$PROJECT_DIR$\build\classes\java\main"/>
-      <env name="MCP_MAPPINGS" value="official_1.20.1"/>
+      <env name="MCP_MAPPINGS" value="parchment_2023.09.03-1.20.1"/>
     </envs>
     <method v="2">
       <option enabled="true" name="Make"/>
