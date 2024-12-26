@@ -4,6 +4,8 @@ biomes added
 
 fossil ores
 
+machines
+
 
 
 
@@ -13,7 +15,6 @@ fossil ores
 
 OPTIONAL GOALS
 past dimensions
-machines
 gene systems
 growth systems
 care systems
