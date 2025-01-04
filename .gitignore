@@ -2,3 +2,29 @@
 /.gradle/
 /build/
 /run/logs/
+/run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat
+/run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old
+/run/saves/New World/advancements/380df991-f603-344c-a090-369bad2a924a.json
+/run/saves/New World/stats/380df991-f603-344c-a090-369bad2a924a.json
+/run/saves/New World/data/capabilities.dat
+/run/saves/New World/DIM1/data/capabilities.dat
+/run/saves/New World/DIM-1/data/capabilities.dat
+/.idea/modules/dinos.iml
+/run/saves/New World/serverconfig/forge-server.toml
+/run/saves/New World/icon.png
+/run/saves/New World/level.dat
+/run/saves/New World/level.dat_old
+/run/saves/New World/entities/r.0.0.mca
+/run/saves/New World/region/r.0.0.mca
+/run/saves/New World/entities/r.0.-1.mca
+/run/saves/New World/region/r.0.-1.mca
+/run/saves/New World/entities/r.-1.0.mca
+/run/saves/New World/region/r.-1.0.mca
+/run/saves/New World/entities/r.-1.-1.mca
+/run/saves/New World/region/r.-1.-1.mca
+/run/saves/New World/data/raids.dat
+/run/saves/New World/DIM-1/data/raids.dat
+/run/saves/New World/DIM1/data/raids_end.dat
+/run/saves/New World/session.lock
+/run/usercache.json
+/run/usernamecache.json
