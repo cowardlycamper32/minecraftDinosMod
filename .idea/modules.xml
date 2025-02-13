@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.main~1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.cowardlycamper32.dinos.test~1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dinos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dinos.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dinos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dinos.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraftDinosMod.dinos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraftDinosMod.dinos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/minecraftDinosMod.dinos.test.iml" filepath="$PROJECT_DIR$/.idea/modules/minecraftDinosMod.dinos.test.iml" />
     </modules>
   </component>
 </project>
