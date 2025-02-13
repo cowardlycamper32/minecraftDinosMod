@@ -1,5 +1,6 @@
 package com.cowardlycamper32.dinos;
 
+import com.cowardlycamper32.dinos.block.ModBlocks;
 import com.cowardlycamper32.dinos.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTab;
@@ -27,7 +28,7 @@ public class Dinos {
 
 
         ModItems.register(modEventBus);
-        
+        ModBlocks.register(modEventBus);
         
         modEventBus.addListener(this::commonSetup);
         
@@ -47,6 +48,10 @@ public class Dinos {
             event.accept(ModItems.CZ_FOSSIL);
             event.accept(ModItems.JR_FOSSIL);
             event.accept(ModItems.TR_FOSSIL);
+        }
+
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.IRON_SHEET_BLOCK);
         }
     }
 

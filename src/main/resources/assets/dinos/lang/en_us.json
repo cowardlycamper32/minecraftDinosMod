@@ -4,5 +4,7 @@
   "item.dinos.cr_fossil": "Cretaceous Fossil",
   "item.dinos.cz_fossil": "Cenozoic Fossil",
   "item.dinos.jr_fossil": "Jurassic Fossil",
-  "item.dinos.tr_fossil": "Triassic Fossil"
+  "item.dinos.tr_fossil": "Triassic Fossil",
+
+  "block.dinos.iron_sheet_block": "Iron Sheet Block"
 }

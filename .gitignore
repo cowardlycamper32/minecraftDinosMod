@@ -28,3 +28,4 @@
 /run/saves/New World/session.lock
 /run/usercache.json
 /run/usernamecache.json
+*.log
